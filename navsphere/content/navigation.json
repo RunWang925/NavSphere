@@ -92,6 +92,14 @@
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1758188543043_vtzq6i6am",
+          "title": "三维短剧 - 坚持做最好用的短剧资源搜索引擎",
+          "href": "https://dj.3v.hk",
+          "description": "三维短剧是一款完全免费的短剧平台，可在线观看，可下载",
+          "icon": "/assets/favicon_1758188524995.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
