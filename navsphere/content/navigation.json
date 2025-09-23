@@ -963,6 +963,14 @@
               "description": "京东物流商家平台",
               "icon": "/assets/favicon_1758607206261.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758607552223_zj9kmaxs3",
+              "title": "萤石商业智居",
+              "href": "https://es.ys7.com",
+              "description": "萤石商业智居，企业萤石云，萤石企业版",
+              "icon": "/assets/favicon_1758607271006.png",
+              "enabled": true
             }
           ]
         },
