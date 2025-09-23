@@ -955,6 +955,14 @@
               "description": "创客SCRM后台",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=scrm.yearcon.com.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1758607238031_8w1s5k5s4",
+              "title": "京东物流商家平台",
+              "href": "https://wl.jdl.com/",
+              "description": "京东物流商家平台",
+              "icon": "/assets/favicon_1758607206261.png",
+              "enabled": true
             }
           ]
         },
