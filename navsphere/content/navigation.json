@@ -940,7 +940,16 @@
       "description": "工作常用网站地址",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "65314e6d-ac0e-46d6-b5ba-c5647b7884e4",
+          "title": "贵渝意尔康",
+          "icon": "Folder",
+          "description": "工作常用地址",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
