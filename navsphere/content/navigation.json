@@ -940,16 +940,7 @@
       "description": "工作常用网站地址",
       "enabled": true,
       "items": [],
-      "subCategories": [
-        {
-          "id": "67ffd2fd-08b2-4d6b-83f5-efd4bb3a884e",
-          "title": "意尔康体育",
-          "icon": "Database",
-          "description": "工作常用地址",
-          "enabled": false,
-          "items": []
-        }
-      ]
+      "subCategories": []
     }
   ]
 }
