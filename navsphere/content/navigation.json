@@ -947,7 +947,16 @@
           "icon": "Folder",
           "description": "工作常用地址",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1758607165728_n8kechgw8",
+              "title": "Scrm",
+              "href": "https://scrm.yearcon.com.cn/#/login",
+              "description": "创客SCRM后台",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=scrm.yearcon.com.cn",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4eafbe98-593a-461c-8681-ca27e9c61b9e",
