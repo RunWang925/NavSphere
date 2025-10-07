@@ -443,6 +443,14 @@
               "description": "",
               "icon": "/assets/favicon_1759828922137.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1759829028984_voig5zrsd",
+              "title": "多吉云 | 视频云 - 云存储 - 网站加速",
+              "href": "https://www.dogecloud.com/",
+              "description": "一站式视频云点播平台，轻量级的用户能够无需了解任何技术就轻而易举地展示和播放视频，而以视频为主要产品的用户能通过强大的 API 和 SDK 完成对视频的高级处理。",
+              "icon": "/assets/favicon_1759829022878.png",
+              "enabled": true
             }
           ]
         }
