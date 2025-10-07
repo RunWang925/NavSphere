@@ -420,6 +420,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "ced96c4f-1d8c-4c13-b8cd-7042698c35eb",
+          "title": "对象储存",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
