@@ -427,7 +427,16 @@
           "icon": "Folder",
           "description": "图床，对象储存，CDN",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1759828880297_43ofzv4yy",
+              "title": "缤纷云控制台 | Bitiful | 对象储存",
+              "href": "https://console.bitiful.com/",
+              "description": "提供高性能对象存储与CDN服务，帮您节省多达4倍成本。",
+              "icon": "/assets/favicon_1759828858381.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
